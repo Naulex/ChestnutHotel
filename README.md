@@ -16,4 +16,9 @@
 ![Data](https://github.com/Naulex/ChestnutHotel/assets/148938265/a6095ac1-d759-4cd7-a83c-ca8d2042d00c)
 
 
+Полная схема базы данных с указанными взаимосвязями:
+
+![Data2](https://github.com/Naulex/ChestnutHotel/assets/148938265/cf1acf42-392d-4a53-8091-8647b5af72b9)
+
+
 Подробнее смотрите в демонстрационном ролике: https://drive.google.com/file/d/1dBIQi7Jew1YX-1HVa0Wkpnj24XN0ZUY7
